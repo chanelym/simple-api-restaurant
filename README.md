@@ -7,6 +7,8 @@ The application uses an external API to retrieve restaurant menu data and displa
 
 <img width="1776" height="915" alt="Screenshot 2026-11-09 at 12 28 50 AM" src="https://github.com/user-attachments/assets/1febc529-500c-49db-adec-1e76c822831b" />
 
+## Deployed Site
+https://simple-api-restaurant.onrender.com
 
 ## Features
 Menu Search: Enter a food category or ingredient, such as chicken.\
